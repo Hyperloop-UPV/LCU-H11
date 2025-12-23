@@ -1,0 +1,6 @@
+[submodule "LCU-Slave-H11"]
+	path = LCU-Slave-H11
+	url = https://github.com/HyperloopUPV-H8/LCU-Slave-H11.git
+[submodule "LCU-Master-H11"]
+	path = LCU-Master-H11
+	url = https://github.com/HyperloopUPV-H8/LCU-Master-H11.git
