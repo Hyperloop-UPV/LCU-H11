@@ -121,7 +121,6 @@ compile_commands.json
 CMakeCache.txt
 CMakeFiles/
 CMakeUserPresets.json
-.env
 
 # generated sources (regenerated at cmake configure)
 Core/Inc/Communications/Packets/DataPackets.hpp
